@@ -23,9 +23,10 @@ public class Main {
 
     public static void main(String[] args) {
         //Definir Constante
-        final String Saludo = "¡Hola Mundo!";
+        final String SALUDO_CONSTANTE = "¡Hola Mundo!";
+       
         //Mensaje
-        System.out.println(Saludo);
+        System.out.println(SALUDO_CONSTANTE);
         
         
     }
